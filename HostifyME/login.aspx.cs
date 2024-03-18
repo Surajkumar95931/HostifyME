@@ -13,5 +13,10 @@ namespace HostifyME
         {
 
         }
+
+        protected void TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
